@@ -3,6 +3,9 @@
 
 :root{
   --primary : #fe2c55;
+  --default-layour-header-heigt: 60px;
+  --default-layout-width: 1150px;
+  --default-layout-dark-color: rgba(18, 18, 18, 1);
 }
 
 *{
@@ -22,3 +25,12 @@ html{
   font-size: 62.5%;
 }
 
+button,input, [tabindex]{
+  border: none;
+  outline: none;
+}
+
+a[href] {
+  color: #333;
+  text-decoration: none;
+}

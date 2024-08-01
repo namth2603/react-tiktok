@@ -4,7 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4a649e7-88a4-4936-9e2e-d2ee7fb77fc3" name="Changes" comment="" />
+    <list default="true" id="e4a649e7-88a4-4936-9e2e-d2ee7fb77fc3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/assets/images/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Layout/DefaultLayout/Sidebar/Sidebar.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Popper/Popper.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Popper/Wrapper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Popper/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/GlobalStyles/GlobalStyles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/GlobalStyles/GlobalStyles.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Layout/DefaultLayout/DefaultLayout.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Layout/DefaultLayout/DefaultLayout.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Layout/DefaultLayout/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Layout/DefaultLayout/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Layout/HeaderOnly/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Layout/HeaderOnly/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Layout/components/Header/Header.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Layout/components/Header/Header.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Layout/components/Header/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Layout/components/Header/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Layout/components/Sidebar/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Layout/DefaultLayout/Sidebar/index.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,10 +37,16 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="2fUolRRuKXGKf3kLhrZ4amN5HH9" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -31,12 +54,14 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/home/namth/Downloads/ReactJs/tiktok-ui/src/components/Layout",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/namth/Downloads/ReactJs/tiktok-ui",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "watcher.settings",
     "ts.external.directory.path": "/snap/phpstorm/390/plugins/javascript-plugin/jsLanguageServicesImpl/external",
     "vue.rearranger.settings.migration": "true"
   }
@@ -48,6 +73,7 @@
       <recent name="$PROJECT_DIR$/src/components/Layout/DefaultLayout" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components/Layout/DefaultLayout" />
       <recent name="$PROJECT_DIR$/src/components/Layout/components" />
     </key>
   </component>
@@ -68,7 +94,13 @@
       <option name="presentableId" value="Default" />
       <updated>1713865167521</updated>
       <workItem from="1713865168524" duration="3355000" />
-      <workItem from="1713922691350" duration="9870000" />
+      <workItem from="1713922691350" duration="10671000" />
+      <workItem from="1715738104220" duration="10531000" />
+      <workItem from="1715843660942" duration="625000" />
+      <workItem from="1715845005434" duration="918000" />
+      <workItem from="1716266218882" duration="4000000" />
+      <workItem from="1716364795581" duration="1212000" />
+      <workItem from="1722499868560" duration="4900000" />
     </task>
     <servers />
   </component>

@@ -2,7 +2,7 @@
 import Header from "~/components/Layout/components/Header";
 import Footer from "~/components/Layout/components/Footer";
 
-function DefaultLayout({children}) {
+function HeaderOnly({children}) {
 
     return (
       <div>
@@ -18,4 +18,4 @@ function DefaultLayout({children}) {
 
 }
 
-export default DefaultLayout
+export default HeaderOnly
