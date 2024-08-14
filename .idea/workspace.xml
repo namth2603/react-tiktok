@@ -5,22 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e4a649e7-88a4-4936-9e2e-d2ee7fb77fc3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/assets/images/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Layout/DefaultLayout/Sidebar/Sidebar.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Popper/Popper.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Popper/Wrapper.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Popper/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/TikTokFont-Semibold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/AccountItem/AcountItem.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/AccountItem/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Button/Button.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Button/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Popper/Menu/Header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Popper/Menu/Menu.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Popper/Menu/MenuItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Popper/Menu/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/GlobalStyles/GlobalStyles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/GlobalStyles/GlobalStyles.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Layout/DefaultLayout/DefaultLayout.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Layout/DefaultLayout/DefaultLayout.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Layout/DefaultLayout/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Layout/DefaultLayout/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Layout/HeaderOnly/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Layout/HeaderOnly/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Layout/components/Header/Header.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Layout/components/Header/Header.module.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Layout/components/Header/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Layout/components/Header/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Layout/components/Sidebar/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Layout/DefaultLayout/Sidebar/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Popper/Wrapper.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Popper/Wrapper.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,23 +49,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/namth/Downloads/ReactJs/tiktok-ui",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "watcher.settings",
-    "ts.external.directory.path": "/snap/phpstorm/390/plugins/javascript-plugin/jsLanguageServicesImpl/external",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/namth/Downloads/ReactJs/tiktok-ui/src/assets/fonts&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;watcher.settings&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/home/namth/Downloads/PhpStorm-2024.1.1/PhpStorm-241.15989.102/plugins/javascript-plugin/jsLanguageServicesImpl/external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/assets/fonts" />
       <recent name="$PROJECT_DIR$/src/components/Layout" />
       <recent name="$PROJECT_DIR$/src/pages" />
       <recent name="$PROJECT_DIR$/src/components/Layout/DefaultLayout" />
@@ -100,7 +100,10 @@
       <workItem from="1715845005434" duration="918000" />
       <workItem from="1716266218882" duration="4000000" />
       <workItem from="1716364795581" duration="1212000" />
-      <workItem from="1722499868560" duration="4900000" />
+      <workItem from="1722499868560" duration="6763000" />
+      <workItem from="1722828675496" duration="15914000" />
+      <workItem from="1722908405236" duration="23629000" />
+      <workItem from="1723618948672" duration="140000" />
     </task>
     <servers />
   </component>
